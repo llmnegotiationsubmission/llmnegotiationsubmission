@@ -1,4 +1,4 @@
-# Opponent Simulation as Inference-Time Scaling for Self-Improving Agents: Case Study of Repeated Negotiations
+# Scaling Inference-Time Computation via Opponent Simulation: Enabling Online Strategic Adaptation in Repeated Negotiation
 
 ### Example Outputs
 Example negotiation dialogues between our algorithm and the baselines are stored in the `Example-outputs/` folder.
